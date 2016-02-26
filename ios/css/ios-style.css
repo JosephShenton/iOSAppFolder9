@@ -37,7 +37,7 @@ div.folderContent > .jaf-container { padding: 10px}
 
 /* Interior */
 .folderContent { 
-	background-image:url("http://farm6.static.flickr.com/5270/5676732818_a63fbd0c4e_z.jpg");
+	background: rgba(0, 0, 0, 0.2);
 	margin-bottom: 5px;
 	border-top: 1px solid #888; 
 	border-bottom: 1px solid #888;
